@@ -1,5 +1,5 @@
 # BicycleSharing
-Sample cheat sheet to user scikit-learn
+Sample cheat sheet to use scikit-learn
 
 
 Reference:
