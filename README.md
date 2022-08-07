@@ -1,5 +1,5 @@
 # BicycleSharing
-Sample cheat sheet to use scikit-learn
+Cheat sheet - scikit-learn - Regression
 
 
 Reference:
